@@ -4,13 +4,13 @@ JIRA issue: <!--JIRA_issue_ID-->
 <!--Add reference documentations and description of changes in this PR that gives additional context to reviewers-->
 
 ## Root Cause
-<!--Briefly describe the cause.-->
+- Briefly describe the cause.
 
 ## Solution
-<!--Briefly describe the implemented solution.-->
+- Briefly describe the implemented solution.
 
 ### Visual reference
-<!--Add screenshots, video recording or other visual reference for changes if applicable-->
+- Add screenshots, video recording or other visual reference for changes if applicable
 
 # How to Test
 <!--Add testing steps needed to verify changes-->
